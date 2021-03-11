@@ -10,7 +10,9 @@
  Please start a server using the latest OpenRGB version.
 
 Credits:
+
 Adam Honse for OpenRGB:
 https://gitlab.com/CalcProgrammer1/OpenRGB
+
 Jath03 for the python api:
 https://github.com/jath03/openrgb-python
