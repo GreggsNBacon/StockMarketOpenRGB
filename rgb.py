@@ -13,8 +13,8 @@ prevPrice = 0
 thisPrice = 0
 #update this URL to change stocks
 stonksURL = "https://www.google.com/finance/quote/GME:NYSE"
-divName = 'div.YMlKec.fxKbKc'
-pollDelay = 20
+divName = 'div.YMlKec.fxKbKc' #if using a different website you may need to update the div and tweak some of the code :)
+pollDelay = 20 #decrease or increase this number to change the rate at which the program updates. A lower value may increase CPU usage.
 
 down = pack_color((255, 0, 0))
 up = pack_color((0, 255, 0))
